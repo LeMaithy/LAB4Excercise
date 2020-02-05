@@ -1,4 +1,6 @@
 package com.example.lab4excercise;
 
-public abstract class Parallelogram {
+public class Parallelogram extends Shape {
+    String name;
+
 }
